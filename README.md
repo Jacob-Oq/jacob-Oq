@@ -19,4 +19,3 @@
 [twitter]: https://twitter.com/8hozumi8
 [linkedin]: https://linkedin.com/in/jacob-oquendo-b8359323a
 
-[twitter](https://twitter.com/8hozumi8){:target="_blank"}
