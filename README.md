@@ -7,6 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/jacob-Oq/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/jacob-Oq/ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - [Installing Active Directory within Azure VMs](https://github.com/jacob-Oq/install-ad)
   - [Configuring Active Directory within Azure VMs](https://github.com/jacob-Oq/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/#/azure-network-protocols)
 
