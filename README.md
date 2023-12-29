@@ -11,6 +11,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/jacob-Oq/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jacob-Oq/azure-network-protocols)
   - [Understanding DNS in Azure](https://github.com/jacob-Oq/intuition-dns)
+  - [Understanding File Permissions in Azure](https://github.com/jacob-Oq/file-permissions)
 
 <h2>🤳Connect with me:</h2>
 
